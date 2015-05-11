@@ -1,0 +1,32 @@
+
+.brand-title {
+    text-transform: uppercase;
+    color: #6CB33E;
+}
+
+.brand-tagline {
+    text-align: center;
+    color: #00ACEF;
+}
+
+.mybutton {
+    margin-top: 10px;
+}
+
+.header {
+    margin: 10% 2em 0;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.sidebar {
+    background: #fff;
+
+}
+
+.instructions {
+    margin: 10% 2em 0;
+}
